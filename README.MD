@@ -11,7 +11,7 @@ python Source_code.py
 ## Output
 Check the file Output.png
 
-![alt tag](/https://github.com/shrobon/VTK_MM804/tree/master/Assignment1_Viewport_Basic_Representation/Output.JPEG)
+![alt tag](./Assignment1_Viewport_Basic_Representation/Output.JPEG)
 ___
 
 # Assignment 2 : Clipping and Cutting 3D objects
@@ -28,4 +28,4 @@ python Asst2.py
 ## Output
 Check the file Output.png
 
-![alt tag](https://github.com/shrobon/VTK_MM804/tree/master/Assignment2_Clipping_cutting/Output.JPEG)
+![alt tag](./Assignment2_Clipping_cutting/Output.JPEG)

@@ -11,7 +11,7 @@ python Source_code.py
 ## Output
 Check the file Output.jpeg
 
-![alt tag](./Assignment1_Viewport_Basic_Representation/Output.jpeg)
+![alt tag](./Assignment1_VIewport_Basic_Representation/Output.jpeg)
 ___
 
 # Assignment 2 : Clipping and Cutting 3D objects
